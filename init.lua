@@ -90,6 +90,11 @@ require("lazy").setup({
       })
     end,
   },
+
+  -- GitSigns
+  {
+    "lewis6991/gitsigns.nvim"
+  },
 })
 
 -- Key mappings
